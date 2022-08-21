@@ -1,0 +1,6 @@
+*.[ao]
+*.out
+CMakeCache.txt
+cmake_install.cmake
+intel_task
+
